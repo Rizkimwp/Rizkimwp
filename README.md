@@ -1,4 +1,4 @@
-# Hi 👋, I'm Rizky Maulana, S.Kom., S.Pd.
+# Hi 👋, I'm Rizky,
 
 <p align="left">
 <img src="https://img.shields.io/badge/Backend-Developer-blue?style=for-the-badge&logo=go-dot-com&logoColor=white" />
